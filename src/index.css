@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("./fonts/helvetica/helvetica-light-587ebe5a59211.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("./fonts/helvetica/Helvetica.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("./fonts/helvetica/Helvetica-Bold.ttf");
+  font-weight: 700;
+}
+
+/* @font-face {
+  font-family: "Helvetica-bold";
+  src: url("./fonts/helvetica/Helvetica-Bold.ttf");
+} */

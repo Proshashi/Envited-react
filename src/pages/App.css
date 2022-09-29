@@ -1,0 +1,18 @@
+:root {
+  --primary-gradient: linear-gradient(90deg, #8456ec 24.2%, #e87bf8 120.46%);
+}
+
+.__envited_gradient-primary {
+  background: var(--primary-gradient);
+}
+
+.__envited_gradient-text {
+  background: var(--primary-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.react-datetime-picker__wrapper {
+  border: none !important;
+}
